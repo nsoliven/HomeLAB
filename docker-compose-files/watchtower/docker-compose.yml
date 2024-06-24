@@ -1,0 +1,13 @@
+version: '3'
+
+# quick and easy setup for watch tower to update all containers.
+# run docker-compose up -d to start the watchtower container
+# run docker-compose down to stop the watchtower container
+# runs once , updates all containers and then stops
+
+services:
+  watchtower:
+    image: containrrr/watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: --cleanup --run-once
