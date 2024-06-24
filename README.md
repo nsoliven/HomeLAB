@@ -41,3 +41,10 @@ Through building and maintaining this home lab, I've gained valuable skills in:
 I'm always looking to improve my home lab setup. If you have any suggestions, feedback, or want to collaborate on a project, please feel free to open an issue or reach out to me. 
 
 Let's connect and learn together! 
+
+## 🏞️ Images related
+<div align="center">
+  <img src="truenas-scale/dashboard.png" width="98%"/>
+  <img src="truenas-scale/disks.png" width="98%"/>
+</div>
+
