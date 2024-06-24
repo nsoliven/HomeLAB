@@ -19,12 +19,11 @@ My home lab setup leverages a mix of powerful tools:
 * **Docker:** For containerizing applications, making them easy to deploy and manage.
 * **Docker Compose:** Streamlining the deployment of multi-container applications.
 * **NGINX Proxy Manager:**  Securing my websites with HTTPS for privacy and trust.
-
+* _Much more coming documentation coming_
 
 ## 📂 Repository Contents
 
 * **docker-compose.yml:** Configuration files for deploying applications using Docker Compose.
-* **ansible:** (Optional) Playbooks for automating server configuration and deployment.
 * **scripts:** Helper scripts for managing various tasks on the server.
 * **docs:** Additional documentation and notes on my setup and configurations.
 
