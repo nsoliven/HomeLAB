@@ -46,6 +46,7 @@ Let's connect and learn together!
 <div align="center">
   <img src="truenas-scale/dashboard.png" width="98%"/>
   <img src="truenas-scale/disks.png" width="98%"/>
+  <img src="proxmox/proxmox-home.png" width="98%">
   <img src="docker-compose-files/nextcloud-aio/nextcloud-login.png" width="98%"/>
 </div>
 
