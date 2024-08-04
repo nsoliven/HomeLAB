@@ -17,9 +17,12 @@ My home lab setup leverages a mix of powerful tools:
 
 * **Linux:** The foundation of my server, providing a stable and flexible operating system.
 * **Docker:** For containerizing applications, making them easy to deploy and manage.
+* **Authentik:** For identity and access management, providing secure authentication.
+* **Proxmox:** A hypervisor for managing virtual machines and containers efficiently.
+* **TrueNAS:** For robust and reliable network-attached storage, ensuring data integrity and availability.
+* **Portainer:** A web-based management tool for simplifying Docker container management.
 * **Docker Compose:** Streamlining the deployment of multi-container applications.
 * **NGINX Proxy Manager:**  Securing my websites with HTTPS for privacy and trust.
-* _Much more coming documentation coming_
 
 ## 📂 Repository Contents
 
