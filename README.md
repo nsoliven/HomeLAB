@@ -2,6 +2,9 @@
 
 🖥️ Welcome to my home lab! This repository showcases the configuration and tools I use to manage my personal home server, as well as a couple of **guides** that I created that may help others! 
 
+Quick links:
+- [GPU PASSTHROUGH GUIDE](https://github.com/nsoliven/HomeLAB/blob/main/proxmox/gpu-passthrough.md)
+
 ## 📝 About My Home Lab
 
 At home, I use various hardware for different applications, but this document and GitHub repository will focus on two main servers. The first is a NAS machine, which distributes storage to my other server and various applications. The second is a Proxmox server, which hosts most of my applications and virtual machines, including those used for development, web servers, and more.
