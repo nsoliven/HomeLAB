@@ -4,8 +4,10 @@
 
 ## 📝 About My Home Lab
 
-In my home, I run a dedicated server (my "home lab") that serves multiple purposes:
+At home, I use various hardware for different applications, but this document and GitHub repository will focus on two main servers. The first is a NAS machine, which distributes storage to my other server and various applications. The second is a Proxmox server, which hosts most of my applications and virtual machines, including those used for development, web servers, and more.
 
+Some of the main applications include:
+* **TrueNAS:** For active and quick storage between all applications and devices on the network.
 * **DNS Sinkhole:** Actively blocking malicious or unwanted domains to improve my network security.
 * **Virtual Machines:** Running isolated environments for various projects and experiments.
 * **Personally Hosted Websites:** Hosting my own websites and web applications.
