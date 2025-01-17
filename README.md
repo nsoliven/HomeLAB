@@ -1,6 +1,6 @@
 # Personal Home Server Portfolio - My Home Lab
 
-🖥️ Welcome to my home lab! This repository showcases the configuration and tools I use to manage my personal home server.  It's been a playground for learning and experimenting with various technologies.
+🖥️ Welcome to my home lab! This repository showcases the configuration and tools I use to manage my personal home server, as well as a couple of **guides** that I created that may help others! 
 
 ## 📝 About My Home Lab
 
